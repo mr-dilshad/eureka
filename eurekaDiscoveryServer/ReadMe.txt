@@ -1,0 +1,1 @@
+This is the service discovery server for eureka clients.
